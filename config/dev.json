@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://dev.somedomenpart.com",
+  "env": {
+    "USERNAME": "DevEnvUserName",
+    "PASSWORD": "DevEnvUserPassword",
+    "DEV_SERVER_URL": "https://serverUrl:666",
+	 "SOME_DEV_SPECIFIC_VARIABLE" : "SomeValue",
+	 "SOME_DEV_SPECIFIC_VARIABLE_BOOL" : true
+  }
+}

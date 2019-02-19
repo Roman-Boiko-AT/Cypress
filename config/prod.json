@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://production.somedomenpart.com",
+  "env": {
+    "USERNAME": "ProductionEnvUserName",
+    "PASSWORD": "ProductionEnvUserPassword",
+    "PRODUCTION_SERVER_URL": "https://prodServerUrl:666",
+	 "SOME_PRODUCTION_SPECIFIC_VARIABLE" : "SomeValue",
+	 "SOME_PRODUCTION_SPECIFIC_VARIABLE_BOOL" : true
+  }
+}
